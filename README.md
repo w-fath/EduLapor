@@ -1,4 +1,4 @@
-# LaporSekolah
+# EduLapor
 
 EduLapor adalah platform pengaduan fasilitas pendidikan berbasis crowdsourcing yang dikembangkan menggunakan CodeIgniter 4. Sistem ini memungkinkan pengguna melaporkan kerusakan fasilitas pendidikan, admin memverifikasi laporan, serta petugas menindaklanjuti laporan secara transparan.
 
